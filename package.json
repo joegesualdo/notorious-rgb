@@ -1,0 +1,11 @@
+{
+  "name": "notorious-rgb",
+  "version": "0.0.1",
+  "description": "Generate rgb values from hex strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Gesualdo",
+  "license": "MIT"
+}
